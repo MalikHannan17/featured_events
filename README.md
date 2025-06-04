@@ -45,9 +45,7 @@ featured-events/
 
 ## 🌐 Live Preview
 
-🔗 [View Live on GitHub Pages](https://yourusername.github.io/featured-events)
-
-*(Replace with your actual link once deployed)*
+🔗 [View Live on GitHub Pages] "https://malikhannan17.github.io/featured_events/"
 
 ## 🙌 Extra Features Added
 
@@ -57,9 +55,3 @@ featured-events/
 - Hover scale animations for cards
 - Interactive styling for navbar and buttons
 
----
-
-## 📅 Submission Info
-
-- 📤 **Submitted to**: Web Development Internship Task
-- 🗓️ **Deadline**: June 4th, 2025 before 11:45 PM
