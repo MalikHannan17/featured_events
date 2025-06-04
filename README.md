@@ -45,7 +45,7 @@ featured-events/
 
 ## 🌐 Live Preview
 
-🔗 [View Live on GitHub Pages] "https://malikhannan17.github.io/featured_events/"
+🔗 View Live on GitHub Pages: "https://malikhannan17.github.io/featured_events/"
 
 ## 🙌 Extra Features Added
 
