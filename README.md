@@ -32,7 +32,7 @@ featured-events/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/featured-events.git
+   git clone https://github.com/MalikHannan17/featured-events.git
    cd featured-events
    ```
 
